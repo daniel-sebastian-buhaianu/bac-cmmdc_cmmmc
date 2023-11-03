@@ -1,1 +1,2 @@
 # bac-cmmdc_cmmmc
+Fisierul text numere.in contine pe prima linie un numar natural N, iar pe urmatoarele N linii cate o pereche de numere naturale a si b. Sa se scrie un program care citeste perechile de valori din fisier si afiseaza in fisierul numere.out pe linii diferite, pentru fiecare pereche din fisier cel mai mare divizor comun si cel mai mic multiplu comun al numerelor din pereche. Numerele din fisier au cel mult patru cifre.
